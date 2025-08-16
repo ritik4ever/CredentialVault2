@@ -102,30 +102,8 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
 
-```
-credentialvault/
-├── 🎨 frontend/          # Next.js Application
-│   ├── app/              # App Router Pages
-│   ├── components/       # React Components
-│   ├── lib/              # Utilities & Config
-│   └── store/            # State Management
-│
-├── 🔧 backend/           # Express API Server
-│   ├── src/
-│   │   ├── routes/       # API Endpoints
-│   │   ├── services/     # Business Logic
-│   │   └── utils/        # Helper Functions
-│   └── tests/            # API Tests
-│
-├── ⛓️ contracts/         # Smart Contracts
-│   ├── contracts/       # Solidity Files
-│   ├── scripts/         # Deployment Scripts
-│   └── test/            # Contract Tests
-│
-└── 📖 docs/             # Documentation
-```
+
 
 ---
 
